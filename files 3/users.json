@@ -1,0 +1,17 @@
+{
+  "admin": {
+    "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+    "role": "admin",
+    "display_name": "Admin"
+  },
+  "mariella": {
+    "password": "01598059c39a4d837e99ced43ffc4b21de7ce7b48fc1490382ee4bc2933b1b65",
+    "role": "editor",
+    "display_name": "Mariella"
+  },
+  "seby": {
+    "password": "562dc0c4ec59d7fb188b1d1b27d7bed519eb703b3bd251795709070eb5a5b866",
+    "role": "viewer",
+    "display_name": "Seby"
+  }
+}
